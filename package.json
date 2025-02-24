@@ -1,0 +1,35 @@
+{
+  "name": "exam-schedule-cli",
+  "version": "1.0.1",
+  "description": "📒 The exam schedule for UITers.",
+  "main": "index.js",
+  "keywords": [
+    "cli-app",
+    "cli",
+    "exam",
+    "schedule",
+    "exam-schedule"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/103cuong/exam-schedule-cli.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/103cuong/exam-schedule-cli/issues"
+  },
+  "homepage": "https://github.com/103cuong/exam-schedule-cli#readme",
+  "bin": {
+    "exam-schedule": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.18.0",
+    "chalk": "^2.4.2",
+    "cli-table": "^0.3.1",
+    "ora": "^3.1.0"
+  }
+}
