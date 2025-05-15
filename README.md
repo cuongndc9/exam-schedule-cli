@@ -28,6 +28,6 @@ Using [uit_es_creator](https://github.com/fongfan999/uit_es_creator).
 ![License](https://img.shields.io/github/license/103cuong/exam-schedule-cli.svg?style=flat-square)
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-Action beats perfection.
-🐶
+Stay curious. Keep learning. Keep growing.
+🦄
 <!-- INSPIRATIONAL_QUOTE_END -->
