@@ -27,7 +27,4 @@ Using [uit_es_creator](https://github.com/fongfan999/uit_es_creator).
 
 ![License](https://img.shields.io/github/license/103cuong/exam-schedule-cli.svg?style=flat-square)
 
-<!-- INSPIRATIONAL_QUOTE_START -->
-Be a lifelong learner, not a know-it-all.
-🧑‍💻
-<!-- INSPIRATIONAL_QUOTE_END -->
+<!-- INSPIRATIONAL_QUOTE_START -->\nDiscomfort is the currency of your dreams.\n🦄\n<!-- INSPIRATIONAL_QUOTE_END -->
