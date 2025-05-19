@@ -30,5 +30,5 @@ Using [uit_es_creator](https://github.com/fongfan999/uit_es_creator).
 
 <!-- INSPIRATIONAL_QUOTE_START -->
 Discomfort is the currency of your dreams.
-🦄
+🧑‍💻
 <!-- INSPIRATIONAL_QUOTE_END -->
