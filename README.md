@@ -29,5 +29,5 @@ Using [uit_es_creator](https://github.com/fongfan999/uit_es_creator).
 
 
 <!-- INSPIRATIONAL_QUOTE_START -->
-> "Success is not final, failure is not fatal: it is the courage to continue that counts." - Winston Churchill
+> "People who are crazy enough to think they can change the world, are the ones who do." - Rob Siltanen
 <!-- INSPIRATIONAL_QUOTE_END -->
